@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+*/*.vscode
+*/*.pyc
+*/*.db
+*/venv
+*/.idea
+*/proxy/*.log
+*/crawler/*.log
+*/crawler/*.txt
+*/crawler/*.pdf
+*/qiushibaike/.idea
